@@ -1,0 +1,9 @@
+com\mycompany\proyectopoo\ProyectoPoo.class
+com\mycompany\proyectopoo\visual\InterfazPrincipal.class
+com\mycompany\proyectopoo\controller\Controlador.class
+com\mycompany\proyectopoo\model\Pelicula.class
+com\mycompany\proyectopoo\model\Detalle.class
+com\mycompany\proyectopoo\servicio\Servicio.class
+com\mycompany\proyectopoo\model\Serie.class
+com\mycompany\proyectopoo\repositorio\Registros.class
+com\mycompany\proyectopoo\visual\InterfazPrincipal$1.class
